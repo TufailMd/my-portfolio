@@ -71,7 +71,7 @@ export default function Hero() {
                         className="flex md:hidden w-11 h-11 rounded-full
                         border border-white/15
                         items-center justify-center
-                        hover:bg-white/5 transition"
+                        hover:bg-white/5 transition" download
                         >
                         <FaFileAlt />
                         </a>

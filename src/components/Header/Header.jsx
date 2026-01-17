@@ -38,7 +38,7 @@ export default function Header() {
             target="_blank"
             className="px-5 py-2 rounded-full
             border border-indigo-500/40 text-indigo-400
-            hover:bg-indigo-500/10 transition"
+            hover:bg-indigo-500/10 transition" download
           >
             Resume
           </a>
