@@ -7,7 +7,7 @@ The portfolio highlights my work, technical stack, and provides an easy way to c
 
 ## 🌐 Live Demo
 
-👉 https://your-portfolio-link.vercel.app  
+👉 https://md-tufail-portfolio.vercel.app/  
 
 ---
 
