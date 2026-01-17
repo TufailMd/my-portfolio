@@ -1,7 +1,6 @@
 import { FaGithub, FaFileAlt, FaLinkedinIn } from "react-icons/fa";
 import TypingText from "./TypingText.jsx";
 import profile from "../../public/pf.png";
-import resume from "../../assets/resume.pdf";
 import { CiMail } from "react-icons/ci";
 
 
@@ -68,7 +67,7 @@ export default function Hero() {
 
                         {/* Resume (SM only) */}
                         <a
-                        href={resume}
+                        href="/resume.pdf"
                         className="flex md:hidden w-11 h-11 rounded-full
                         border border-white/15
                         items-center justify-center
