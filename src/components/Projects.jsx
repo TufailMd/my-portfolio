@@ -7,15 +7,15 @@ const projects = [
             "Study material platform for B.Tech resources organized by course, semester, and subject.",
         tech: ["React", "JavaScript", "Tailwind CSS"],
         github: "https://github.com/TufailMd/Learning-Verse",
-        demo: "https://learnifyverse.vercel.app/",
+        demo: "https://learnifyverse.vercel.app",
     },
     {
-        title: "Airbnb Clone",
+        title: "Feels Like Home",
         description:
             "Full-stack booking platform with authentication, file uploads, cloud storage, and MVC architecture.",
-        tech: ["Node.js", "Express.js", "MongoDB", "EJS"],
-        github: "https://github.com/TufailMd/AirBnb-Clone",
-        demo: "#",
+        tech: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
+        github: "https://github.com/TufailMd/feels-like-home/tree/main",
+        demo: "https://feelslikehome-rose.vercel.app/",
     },
     {
         title: "Todo Web App",
