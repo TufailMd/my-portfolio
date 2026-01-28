@@ -15,7 +15,7 @@ const projects = [
             "Full-stack booking platform with authentication, file uploads, cloud storage, and MVC architecture.",
         tech: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
         github: "https://github.com/TufailMd/feels-like-home/tree/main",
-        demo: "https://feelslikehome-rose.vercel.app/",
+        demo: "https://feelslikehome-one.vercel.app/",
     },
     {
         title: "Todo Web App",
